@@ -1,6 +1,8 @@
 identidock
 ==========
 
+Corrected
+
 Docker Image Delivery
 
 Simple identicon server based on monsterid from Kevin Gaudin.
